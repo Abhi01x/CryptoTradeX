@@ -34,8 +34,8 @@ The layout adapts to different screen sizes using **CSS Grid** and **Media Queri
 ## Example Dashboard
 
 Here's an example of how the dashboard looks:
+https://raw.githubusercontent.com/Abhi01x/CryptoTradeX/refs/heads/main/Screenshot%202025-03-15%20020122.png
 
-![Example Dashboard]([https://via.placeholder.com/1200x800.png](https://raw.githubusercontent.com/Abhi01x/CryptoTradeX/refs/heads/main/Screenshot%202025-03-15%20020122.png))  
 check out - https://cryptotradex.netlify.app/
 
 ## How to Contribute
