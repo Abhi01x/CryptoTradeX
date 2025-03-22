@@ -8,7 +8,7 @@
 - **Real-Time Data**: Continuously updates the price, volume, 24-hour change, high, and low values for each cryptocurrency.
 - **Responsive Design**: The dashboard adapts seamlessly across various screen sizes, whether desktop or mobile.
 - **User-Friendly Interface**: Clean and intuitive layout for easy navigation.
-- **Data Update**: Prices and other coin data are automatically updated every 10 seconds.
+- **Data Update**: Prices and other coin data are automatically updated every 10 seconds. 
 
 ## Technologies Used
 
