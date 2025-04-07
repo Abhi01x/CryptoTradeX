@@ -10,7 +10,7 @@
 - **User-Friendly Interface**: Clean and intuitive layout for easy navigation.
 - **Data Update**: Prices and other coin data are automatically updated every 10 seconds. 
 
-## Technologies Used
+## Technologies Used 
 
 - **HTML5**: For structure and layout.
 - **CSS3**: For styling and responsive design.
