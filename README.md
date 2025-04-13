@@ -2,7 +2,7 @@
 
 **CryptoTradeX** is a modern and responsive cryptocurrency dashboard with real-time data integration. CryptoTradeX is a dynamic, real-time cryptocurrency dashboard that displays live data for the top 50 trending cryptocurrencies. The dashboard fetches live data for the coins' prices, 24-hour price changes, trading volumes, and high/low prices. It provides a simple yet informative interface for cryptocurrency enthusiasts and traders to keep track of the latest market trends.
 
-## Features
+## Features 
 
 - **Top 50 Trending Coins**: Displays real-time data for the top 50 cryptocurrencies based on trading volume.
 - **Real-Time Data**: Continuously updates the price, volume, 24-hour change, high, and low values for each cryptocurrency.
